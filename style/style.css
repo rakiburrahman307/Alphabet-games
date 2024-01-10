@@ -1,0 +1,10 @@
+img {
+    height: 400px;
+    width: 800px;
+}
+
+
+.animated {
+    box-shadow: 0 15px 30px 0 skyblue;
+    opacity: 0.5;
+}
